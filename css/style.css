@@ -8214,6 +8214,7 @@ footer {
 .footer-10 {
   background: #222222;
   padding: 0 0 4em 0;
+  width:fit-content;
 
  }
   .footer-10 .border-top, .footer-10 .border-bottom {
