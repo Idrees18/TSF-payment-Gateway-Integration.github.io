@@ -14,8 +14,4 @@ WEBSITE :
  
 SCREENSHOTS :
 
-          ![Screenshot (82)](https://user-images.githubusercontent.com/81101809/168887970-2df7650e-9137-4c2a-9b87-c3606a2d73f2.png)
-
-
-      
-
+          <img src = "https://user-images.githubusercontent.com/81101809/168890423-addce531-8bb6-44a0-b346-cd7e5a8b8a6e.png"
