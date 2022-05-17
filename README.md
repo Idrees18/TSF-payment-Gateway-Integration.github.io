@@ -14,6 +14,6 @@ WEBSITE :
  
 SCREENSHOTS :
 
-          ![](screenshots/Screenshot(82).png)
+          ![](screenshots/Screenshot (82).png)
 
         
