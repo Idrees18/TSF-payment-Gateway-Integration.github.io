@@ -14,6 +14,7 @@ WEBSITE :
  
 SCREENSHOTS :
 
-          ![](screenshots/Screenshot (82).png)
+          ![](https://github.com/Idrees18/TSF-payment-Gateway-Integration.github.io
+/screenshots/Screenshot (82).png)
 
         
